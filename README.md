@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository documents a 7-day hands-on challenge from [HAX Security Courses](https://learn.haxsecurity.com/ target="_blank"). The course is designed to build and test security operations (SecOps) skills using Splunk as a SIEM. The challenge simulates common attack techniques and defensive strategies across endpoint monitoring, network intrusion detection, and firewall log analysis. I have configured a home lab with data sources, log forwarding, rule-based detection, and dashboard building.
+This repository documents a 7-day hands-on challenge from [HAX Security Courses](https://learn.haxsecurity.com/). The course is designed to build and test security operations (SecOps) skills using Splunk as a SIEM. The challenge simulates common attack techniques and defensive strategies across endpoint monitoring, network intrusion detection, and firewall log analysis. I have configured a home lab with data sources, log forwarding, rule-based detection, and dashboard building.
 
 ## Challenge Coverage
 
