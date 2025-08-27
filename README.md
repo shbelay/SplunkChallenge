@@ -16,14 +16,14 @@ This repository documents a 7-day hands-on challenge from [HAX Security Courses]
 
 ## Folder Structure
 
-```
-├── day1_splunk_setup.md
-├── day2_rdp_detection.md
-├── day3_powershell_abuse.md
-├── day4_file_integrity.md
-├── day5_suricata_detection.md
-├── day6_firewall_analysis.md
-├── day7_dashboard_building.md
-```
+
+-  Day1: [01 - Splunk Setup.md](https://github.com/shbelay/SplunkChallenge/blob/main/01%20-%20Splunk%20Setup.md)
+- day2_rdp_detection.md
+- day3_powershell_abuse.md
+- day4_file_integrity.md
+- day5_suricata_detection.md
+- day6_firewall_analysis.md
+- day7_dashboard_building.md
+
 
 Each markdown file documents one day of the challenge, including configuration steps, simulated attacks, and response strategies.
