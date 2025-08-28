@@ -26,4 +26,4 @@ This repository documents a 7-day hands-on challenge from [HAX Security Courses]
 - day7_dashboard_building.md
 
 
-Each markdown file documents one day of the challenge, including configuration steps, simulated attacks, and response strategies.
+I will be documenting each day of the challenge, which will include configuration steps, the simulated attacks performed, and response strategies.
