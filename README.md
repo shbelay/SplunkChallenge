@@ -18,7 +18,7 @@ This repository documents a 7-day hands-on challenge from [HAX Security Courses]
 
 
 -  Day1: [01 - Splunk Setup.md](https://github.com/shbelay/SplunkChallenge/blob/main/01%20-%20Splunk%20Setup.md)
-- day2_rdp_detection.md
+- Day 2: [02 - RDP Detection.md](https://github.com/shbelay/SplunkChallenge/blob/main/02%20-%20RDP%20Detection.md)
 - day3_powershell_abuse.md
 - day4_file_integrity.md
 - day5_suricata_detection.md
