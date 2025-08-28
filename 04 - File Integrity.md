@@ -84,10 +84,10 @@ sudo nano /opt/splunkforwarder/etc/system/local/inputs.conf
 
 ### Add Monitor for Auditd Logs
 ```ini
-[monitor:///var/log/suricata/eve.json]
+[monitor:///var/log/audit/audit.log]
 disabled = false
-index = network_security_logs
-sourcetype = suricata
+index = linux_file_integrity
+sourcetype = auditd
 ```
 <img width="372" height="276" alt="image" src="https://github.com/user-attachments/assets/b615b21c-7341-451b-85e8-d963755d3b5c" />
 
