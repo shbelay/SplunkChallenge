@@ -23,7 +23,7 @@ This repository documents a 7-day hands-on challenge from [HAX Security Courses]
 - Day 4: [04 - File Integrity.md](https://github.com/shbelay/SplunkChallenge/blob/main/04%20-%20File%20Integrity.md)
 - Day 5: [05 - Suricata Detection.md](https://github.com/shbelay/SplunkChallenge/blob/main/05%20-%20Suricata%20Detection.md)
 - Day 6: [06 - Firewall Analysis.md](https://github.com/shbelay/SplunkChallenge/blob/main/06%20-%20Firewall%20Analysis.md)
-- Day 7: 07 - Dashboard Building.md
+- Day 7: [07 - Dashboard Building.md](https://github.com/shbelay/SplunkChallenge/blob/main/07%20-%20Dashboard%20Building.md)
 
 
 I will be documenting each day of the challenge, which will include configuration steps, the simulated attacks performed, and response strategies.
