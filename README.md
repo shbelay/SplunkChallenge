@@ -27,3 +27,7 @@ This repository documents a 7-day hands-on challenge from [HAX Security Courses]
 
 
 I will be documenting each day of the challenge, which will include configuration steps, the simulated attacks performed, and response strategies.
+
+Certificate of Completion
+<img width="1362" height="870" alt="image" src="https://github.com/user-attachments/assets/d2b28a95-e5f3-4b81-a3f1-db550a0779f7" />
+
